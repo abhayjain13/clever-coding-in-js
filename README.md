@@ -2,8 +2,6 @@
 
 Implementing various types of functions in JS.
 
-Colons can be used to align columns.
-
 | File Name                | Description                                 |
 | ------------------------ |:-------------------------------------------:|
 | n-args-handle.js         | Passing Function with n number of arguments |

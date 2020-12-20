@@ -12,9 +12,9 @@
 
 const number = 50; // Set the number
 for (
-  let x = 0, next = 1, temp;
-  x < number;
-  temp = next, next = next + x, x = temp
+  let x = 0, next = 1, temp; // Intialization
+  x < number; // Condition Check
+  temp = next, next = next + x, x = temp // Increment
 ) {
   console.log(x);
 }

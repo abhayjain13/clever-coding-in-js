@@ -8,3 +8,4 @@ Implementing various types of functions in JS.
 | currying.js | Evaluating function with multiple arguments, into sequence of function with single argument. |
 | fun-with-fibonacci.js | Fun with Fibonacci Series Algorithm |
 | isEmpty-Obj.js | Check if Object is Empty or not |
+| swapping-using-destructuring.js | Swapping of Variables using destructuring and without using extra variable. |
